@@ -1,0 +1,3 @@
+实验5 CISCO IOS路由器基本配置
+src文件夹包含完成实验所需的命令
+bin文件夹包含CCNA Network Visualizer导出的rsm文件
